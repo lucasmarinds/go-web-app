@@ -1,6 +1,6 @@
 # GO Application WEB
 
-## Projeto para poder saber como funciona um projeto de GO utilizando protocolos HTTP sem terceiros.
+## Projeto de aprendizagem de uma web app utilizando GO.
 
 Esse projeto foi desenvolvido para se aprender como criar uma aplicação web utilizando GO + HTML + JS,
 utilizamos o padrao de MVC (Model, View, Controller) para criar essa aplicação.
